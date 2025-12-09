@@ -1,0 +1,36 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# vs files
+.vs/
+*.csproj
+*.sln
+*.user
+*.suo
+*.tmp
+*.pidb
+*.booproj
+
+# Rider files
+.idea/
+
+# Auto-generated files
+*.unityproj
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# User settings
+UserSettings/
+
+# Crash reports
+sysinfo.txt
